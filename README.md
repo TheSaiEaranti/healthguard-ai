@@ -14,4 +14,3 @@ An ML-powered web dashboard that predicts patient risk for chronic conditions ba
 - Interactive dashboard for non-technical users
 - Custom synthetic data for demonstration purposes
 
-## 📂 Project Structure
